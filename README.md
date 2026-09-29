@@ -154,8 +154,10 @@ MathCrypt is an academic and educational project designed to demonstrate mathema
 
 It should not be considered a replacement for modern cryptographic systems used for protecting real passwords.
 
+**## 11. screenshots**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60feccaf-e4e5-4ece-a0a6-f93bd8e83334" />
 
-## 11. How to Exit
+## 12. How to Exit
 
 The program can be stopped using:
 Ctrl + C

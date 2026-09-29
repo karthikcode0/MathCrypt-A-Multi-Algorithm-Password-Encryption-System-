@@ -108,13 +108,21 @@ The following example demonstrates the working of MathCrypt using the input 1234
 Enter your input: 1234
 
 Factors: 1, 2, 617, 1234
+
 Prime Check: Not Prime
+
 Prime Factors: 2, 617
+
 Digit Sum: 10
+
 Reverse: 4321
+
 Binary: 10011010010
+
 Factorial of Digits: 1, 2, 6, 24
+
 Sign: Positive
+
 
 encrypted output:  b10011010010r4321f4s10pf2
 
